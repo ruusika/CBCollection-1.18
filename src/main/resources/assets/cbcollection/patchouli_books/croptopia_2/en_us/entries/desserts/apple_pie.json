@@ -1,0 +1,17 @@
+{
+  "name": "Apple Pie",
+  "icon": "croptopia:apple_pie",
+  "category": "cbcollection:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:apple_pie",
+      "text": "There are several variants of apple pie. there are some really, really dry ones for which you need a coffee to even eat them."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_apple_pie",
+      "text": "But there can be some very fruity ones as well. Depends on the amount of ingredients mostly."
+    }
+  ]
+}

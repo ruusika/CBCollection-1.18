@@ -1,0 +1,12 @@
+{
+  "name": "Rum",
+  "icon": "croptopia:rum",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:rum",
+      "text": "A healer's favorite. Used to calm either your patients or yourself down. Also the favorite of your local golem."
+    }
+  ]
+}

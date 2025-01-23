@@ -1,0 +1,17 @@
+{
+	"name": "Pie Crust",
+	"icon": "farmersdelight:pie_crust",
+	"category": "cbcollection:ingredients",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:pie_crust",
+			"text": "Most pies need a good crust and an even better base."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "c:farmersdelight/cbc_pie_crust",
+			"text": "It's easily made. Just don't use too much milk."
+		}
+	]
+}

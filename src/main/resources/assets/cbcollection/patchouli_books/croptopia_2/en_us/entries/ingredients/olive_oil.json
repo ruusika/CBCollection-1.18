@@ -1,0 +1,12 @@
+{
+  "name": "Olive Oil",
+  "icon": "croptopia:olive_oil",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:olive_oil",
+      "text": "If you need to fry something in a pan, oil is the best option. Olive oil is the easiest to make."
+    }
+  ]
+}

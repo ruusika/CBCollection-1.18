@@ -1,0 +1,12 @@
+{
+  "name": "Grape Jam",
+  "icon": "croptopia:grape_jam",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:grape_jam",
+      "text": "I dunno, some people like to eat it on toast, not me though."
+    }
+  ]
+}

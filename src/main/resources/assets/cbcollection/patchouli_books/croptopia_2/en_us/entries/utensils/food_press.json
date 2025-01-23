@@ -1,0 +1,17 @@
+{
+  "name": "Food Press",
+  "icon": "croptopia:food_press",
+  "category": "cbcollection:utensils",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:food_press",
+      "text": "Just throw the stuff you want to liquify in there and press down for a bit."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_food_press",
+      "text": "A simplified version. Not tested yet."
+    }
+  ]
+}

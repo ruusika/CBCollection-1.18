@@ -1,0 +1,17 @@
+{
+  "name": "Pepperoni",
+  "icon": "croptopia:pepperoni",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:pepperoni",
+      "text": "A spiced sausage for your pizza. i recommend it."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_pepperoni",
+      "text": "Is there a less spicy version? I just had one with extra garlic that was a bit too spicy."
+    }
+  ]
+}

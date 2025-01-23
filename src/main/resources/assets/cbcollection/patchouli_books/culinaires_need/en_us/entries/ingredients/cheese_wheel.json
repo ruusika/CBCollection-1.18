@@ -6,7 +6,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "culinaire:crafting/cheese_wheel",
-      "text": "A cheese wheel is a superior way to store cheese."
+      "text": "A cheese wheel is the superior way to store cheese."
     }
   ]
 }

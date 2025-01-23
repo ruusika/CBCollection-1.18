@@ -6,7 +6,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "culinaire:crafting/kettle",
-      "text": "The centerpiece of making delicious tea. Simply but a tea bag in hot water and brew it a bit. The duration depends on the type of tea."
+      "text": "The centerpiece of making delicious tea. Simply put a bag of tea in hot water and let it steep for a bit. The duration depends on the type of tea."
     }
   ]
 }

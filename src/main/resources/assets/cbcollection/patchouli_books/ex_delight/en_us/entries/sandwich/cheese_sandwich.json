@@ -1,0 +1,17 @@
+{
+  "name": "Cheese Sandwich",
+  "icon": "expandeddelight:cheese_sandwich",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "expandeddelight:minecraft/crafting/cheese_sandwich",
+      "text": "Very, very simple. Just cut your bread open and put a good slice of cheese on it."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:expandeddelight/cbc_cheese_sandwich",
+      "text": "Depending on the type of cheese you use you can get vastly differently tasting results."
+    }
+  ]
+}

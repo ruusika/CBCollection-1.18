@@ -1,0 +1,25 @@
+{
+  "name": "Sweet Berry Cheesecake",
+  "icon": "farmersdelight:sweet_berry_cheesecake",
+  "category": "cbcollection:feasts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Berry Cheesecake",
+      "recipe": "farmersdelight:sweet_berry_cheesecake",
+      "text": "Fresh, fluffy and fruity. Take a knife and give your friends a slice."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Berry Cheesecake",
+      "recipe": "c:farmersdelight/cbc_sweet_berry_cheesecake",
+      "text": "Sadly it isn't edible as long as a fully baked apple pie."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Berry Cheesecake",
+      "recipe": "farmersdelight:sweet_berry_cheesecake_from_slices",
+      "text": "Be careful with the filling when putting it back together."
+    }
+  ]
+}

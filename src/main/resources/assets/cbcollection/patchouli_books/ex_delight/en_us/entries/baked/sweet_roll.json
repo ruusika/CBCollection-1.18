@@ -1,0 +1,17 @@
+{
+  "name": "Sweet Roll",
+  "icon": "expandeddelight:sweet_roll",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "expandeddelight:minecraft/crafting/sweet_roll",
+      "text": "This looks like something a few norhterners invented."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:expandeddelight/cbc_sweet_roll",
+      "text": "Could this be a glorified cinnamon roll?"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Hot Cocoa",
+	"icon": "farmersdelight:hot_cocoa",
+	"category": "cbcollection:potmeals",
+	"pages": [
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "farmersdelight:cooking/hot_cocoa",
+			"text": "A drink to warm you up in winter or cold nights."
+		},
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "c:farmersdelight/cbc_hot_cocoa",
+			"text": "Depending on what kind and the amount of beans you use it might get a bit bitter."
+		}
+	]
+}

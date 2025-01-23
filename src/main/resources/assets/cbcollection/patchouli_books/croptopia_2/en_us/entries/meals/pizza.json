@@ -1,0 +1,17 @@
+{
+  "name": "Pizza",
+  "icon": "croptopia:pizza",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:pizza",
+      "text": "Cheese and tomato, very simple but very tasty."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_pizza",
+      "text": "You can decide what other stuff goes on top of it."
+    }
+  ]
+}

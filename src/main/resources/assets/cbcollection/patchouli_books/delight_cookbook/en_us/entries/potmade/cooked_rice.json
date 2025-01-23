@@ -1,0 +1,17 @@
+{
+	"name": "Cooked Rice",
+	"icon": "farmersdelight:cooked_rice",
+	"category": "cbcollection:potmeals",
+	"pages": [
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "farmersdelight:cooking/cooked_rice",
+			"text": "A basic ingredient for several advanced rice dishes. Don't let it burn."
+		},
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "c:farmersdelight/cbc_cooked_rice",
+			"text": "The rice gets some more flavour if you add an onion seasoned with some carnations."
+		}
+	]
+}

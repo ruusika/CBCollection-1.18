@@ -1,0 +1,13 @@
+{
+  "name": "Popcorn",
+  "icon": "croptopia:popcorn",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:popcorn_from_corn",
+      "recipe2": "c:croptopia/cbc_popcorn",
+      "text": "I will not start a war over salty or sweet popcorn. I would rather munch down on both."
+    }
+  ]
+}

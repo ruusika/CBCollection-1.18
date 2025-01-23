@@ -1,0 +1,12 @@
+{
+  "name": "Peanut Butter Sandwich",
+  "icon": "expandeddelight:peanut_butter_sandwich",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "expandeddelight:minecraft/crafting/peanut_butter_sandwich",
+      "text": "Personally i don't like it very much but i can understand why people might like it."
+    }
+  ]
+}

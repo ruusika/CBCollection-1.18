@@ -16,12 +16,12 @@
     {
       "type": "patchouli:crafting",
       "recipe": "c:culinaire/cbc_strong_bitter_tea",
-      "text": "I don't know but this is making me puke..."
+      "text": "I don't know why but this is making me puke..."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "c:culinaire/cbc_weak_gloopy_tea",
-      "text": "What does gloopy mean?"
+      "text": "What does gloopy even mean?"
     },
     {
       "type": "patchouli:crafting",
@@ -36,7 +36,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "c:culinaire/cbc_weak_shining_tea",
-      "text": "This feels like I am shining from within."
+      "text": "This makes me feel like i am shining from within."
     },
     {
       "type": "patchouli:crafting",
@@ -61,7 +61,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "c:culinaire/cbc_strong_sweet_tea",
-      "text": "This tastes like someone put an entire bag of sugar in there..."
+      "text": "This tastes like someone put an entire bag of sugar in it."
     },
     {
       "type": "patchouli:crafting",
@@ -71,7 +71,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "c:culinaire/cbc_normal_unami_tea",
-      "text": "Ahh...This one is relaxing"
+      "text": "Ahh...This one is relaxing."
     }
   ]
 }

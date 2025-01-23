@@ -1,0 +1,12 @@
+{
+	"name": "Fried Egg",
+	"icon": "farmersdelight:fried_egg",
+	"category": "cbcollection:ingredients",
+	"pages": [
+		{
+			"type": "patchouli:smelting",
+			"recipe": "farmersdelight:fried_egg",
+			"text": "You can do this one in the oven, on the grill, in a skillet or even in the smoker. The consistency and taste might change just a bit depending on what you used though."
+		}
+	]
+}

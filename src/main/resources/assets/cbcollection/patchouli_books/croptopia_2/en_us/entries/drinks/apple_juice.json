@@ -1,0 +1,12 @@
+{
+  "name": "Apple Juice",
+  "icon": "croptopia:apple_juice",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:apple_juice",
+      "text": "Some people will suffer a stomachache when drinking to much of this."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Fruit Salad",
+  "icon": "farmersdelight:fruit_salad",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:fruit_salad",
+      "text": "Fresh and healthy. You should eat more of that. I don't know why you would add pumpkin to it though."
+    }
+  ]
+}

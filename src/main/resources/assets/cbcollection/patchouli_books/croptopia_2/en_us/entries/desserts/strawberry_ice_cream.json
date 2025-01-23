@@ -1,0 +1,17 @@
+{
+  "name": "Strawberry Ice Cream",
+  "icon": "croptopia:strawberry_ice_cream",
+  "category": "cbcollection:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:strawberry_ice_cream",
+      "text": "One of the old classics. The first one you are going to learn when learning how to make ice cream."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_strawberry_ice_cream",
+      "text": "This one is a kids favorite. Fruity but very sweet."
+    }
+  ]
+}

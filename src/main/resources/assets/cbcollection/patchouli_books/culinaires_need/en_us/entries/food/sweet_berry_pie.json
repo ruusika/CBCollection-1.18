@@ -6,12 +6,12 @@
     {
       "type": "patchouli:crafting",
       "recipe": "culinaire:crafting/sweet_berry_pie",
-      "text": "You need to be careful with the berries. They easily squish out."
+      "text": "You need to be careful with the berries. They are easily squished"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "c:culinaire/cbc_sweet_berry_pie",
-      "text": "Usually stew or soak the berries in water before baking to prevent burning."
+      "text": "Usually the berries are stewed or soaked in water before baking to prevent burning."
     }
   ]
 }
