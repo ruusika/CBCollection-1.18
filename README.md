@@ -22,8 +22,12 @@ So I started working on my first new recipe book with [Patchouli](https://www.cu
 - Based on [Expanded Delight](https://www.curseforge.com/minecraft/mc-mods/expanded-delight) by [ianm1647](https://github.com/ianm1647).
 
 ##### A Culinaire's Need
-- ![Static Badge](https://img.shields.io/badge/Status-WIP-orange)
+- ![Static Badge](https://img.shields.io/badge/Status-finished-green)
 - Based on [Culinaire](https://www.curseforge.com/minecraft/mc-mods/culinaire) by [Hugman_76](https://github.com/DawnTeamMC)
+
+##### Valley's Guide
+- ![Static Badge](https://img.shields.io/badge/Status-finished-green)
+- Based on [valleycraft-old](https://www.curseforge.com/minecraft/mc-mods/valleycraft) by [GoblinGrowl](https://github.com/ValleyCraft-Dev-Team)
 
 #
 **What you need:**
